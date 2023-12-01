@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "name": "Banana",
+        "price": 3.99,
+        "imgUrl": "/imgs/banana.jpg"
+    },
+    {
+        "id":2,
+        "name": "Apple",
+        "price": 4.99,
+        "imgUrl": "/imgs/apple.jpg"
+    },
+    {
+        "id":3,
+        "name": "Kiwifruit",
+        "price": 2.59,
+        "imgUrl": "/imgs/kiwifruit.jpg"
+    },
+    {
+        "id":4,
+        "name": "Asparagus",
+        "price": 3.79,
+        "imgUrl": "/imgs/asparagus.jpg"
+    },
+    {
+        "id":5,
+        "name": "Artichoke",
+        "price": 6.89,
+        "imgUrl": "/imgs/artichoke.jpg"
+    },
+    {
+        "id":6,
+        "name": "Strawberries",
+        "price": 5.99,
+        "imgUrl": "/imgs/strawberries.jpg"
+    },
+    {
+        "id":7,
+        "name": "Blueberries",
+        "price": 7.89,
+        "imgUrl": "/imgs/blueberries.jpg"
+    },
+    {
+        "id":8,
+        "name": "Tomatoes",
+        "price": 2.29,
+        "imgUrl": "/imgs/tomatoes.jpg"
+    },
+    {
+        "id":9,
+        "name": "Cabbage",
+        "price": 6.59,
+        "imgUrl": "/imgs/cabbage.jpg"
+    },
+    {
+        "id":10,
+        "name": "Beetroot",
+        "price": 3.19,
+        "imgUrl": "/imgs/beetroot.jpg"
+    },
+    {
+        "id":11,
+        "name": "Grapefruit",
+        "price": 8.39,
+        "imgUrl": "/imgs/grapefruit.jpg"
+    },
+    {
+        "id":12,
+        "name": "Potatoes",
+        "price": 12.99,
+        "imgUrl": "/imgs/potatoes.jpg"
+    },
+    {
+        "id":13,
+        "name": "Carrot",
+        "price": 1.19,
+        "imgUrl": "/imgs/carrot.jpg"
+    },
+    {
+        "id":14,
+        "name": "Eggplant",
+        "price": 4.79,
+        "imgUrl": "/imgs/eggplant.jpg"
+    },
+    {
+        "id":15,
+        "name": "Orange",
+        "price": 2.19,
+        "imgUrl": "/imgs/orange.jpg"
+    }
+]
